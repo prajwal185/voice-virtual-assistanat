@@ -1,0 +1,7 @@
+{
+  "name": "Voice Virtual Assistant",
+  "description": "A voice-powered virtual assistant that uses Google's Gemini for conversational intelligence and ElevenLabs for realistic text-to-speech voice synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
